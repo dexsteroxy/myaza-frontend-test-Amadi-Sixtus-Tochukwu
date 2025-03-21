@@ -213,7 +213,7 @@ const LoginPage = () => {
           <Image
             src={preview}
             alt="Dashboard Preview"
-            className="w-full  2xl:w-[500px] pt-12"
+            className="w-full xl:h-[340px] md:h-[250px] lg:h-[330px]  2xl:w-[500px] pt-1"
             priority
           />
         </div>
