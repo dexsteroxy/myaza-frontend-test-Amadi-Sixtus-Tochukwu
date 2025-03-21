@@ -18,9 +18,8 @@ Start the development server
 2. yarn dev
 The application will be available at http://localhost:3000.
 
-🔍 development
-  the following assumptions were made:
-  The site is live at
+🎉🎉🎉🎉Development
+  The site is live at:  https://myaza-amadi-sixtus-tochukwu-4.onrender.com
 
 npm test
 📌 Additional Notes
